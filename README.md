@@ -1,5 +1,4 @@
 # The-WrightWay
-# the-wright-way-finance-app
 Slogan: Save right, The Wright Way
 
   ## Our Story
